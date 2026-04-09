@@ -1,7 +1,12 @@
+# Virtual environments
 LCenv/
+venv/
+.env/
+
+# Python
 __pycache__/
 *.pyc
-.env
-.env.*
+
+# Logs & system
 *.log
 .DS_Store
